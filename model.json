@@ -2,7 +2,7 @@
   "OPPO": [
     {
       "name": "Find",
-      "list": [        
+      "list": [
         {
           "name": "Find X8",
           "model": "PKB110",
@@ -55,25 +55,19 @@
           "name": "Find X9 Pro",
           "model": "PLG110",
           "Project No.": "24081",
-          "OTA Version": "PLG110_11.A.98_0980_202604281448"
+          "OTA Version": ""
         },
         {
           "name": "Find X9 Pro 卫星通信版",
           "model": "PLG120",
           "Project No.": "24082",
           "OTA Version": ""
-        },
-        {
-          "name": "一加 13",
-          "model": "PJZ110",
-          "Project No.": "23821",
-          "OTA Version": "PJZ110_11.C.89_1890_202604292214,PJZ110_11.C.88_1880_202604101200,PJZ110_11.C.86_1860_202603040058,PJZ110_11.C.85_1850_202601281636,PJZ110_11.C.84_1840_202601060309,PJZ110_11.C.83_1830_202512070008,PJZ110_11.C.80_1800_202511091616,PJZ110_11.C.74_1740_202510242212,PJZ110_11.C.43_1430_202510052318,PJZ110_11.C.38_1380_202509142250,PJZ110_11.C.37_1370_202509070346,PJZ110_11.C.33_1330_202508080528,PJZ110_11.C.32_1320_202508080305"
-        }        
-      ]  
+        }
+      ]
     },
     {
       "name": "Reno",
-      "list": [        
+      "list": [
         {
           "name": "Reno 9",
           "model": "PHM110",
@@ -174,6 +168,167 @@
           "name": "Reno 15c",
           "model": "PMD110",
           "Project No.": "25019",
+          "OTA Version": ""
+        }
+      ]
+    }
+  ],
+  "OnePlus": [
+    {
+      "name": "Ace",
+      "list": [
+        {
+          "name": "Ace",
+          "model": "PGKM10",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 竞速版",
+          "model": "PGZ110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace Pro",
+          "model": "PGP110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace Pro 原神限定版",
+          "model": "PGP110",
+          "Project No.": "",
+          "OTA Version": "PGP110Ovt"
+        },
+        {
+          "name": "Ace 2",
+          "model": "PHK110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 2 原神定制礼盒",
+          "model": "PHK110",
+          "Project No.": "",
+          "OTA Version": "PHK110YS"
+        },
+        {
+          "name": "Ace 2V",
+          "model": "PHP110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 2 Pro",
+          "model": "PJA110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 3",
+          "model": "PJE110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 3V",
+          "model": "PJF110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 3 Pro",
+          "model": "PJX110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 5",
+          "model": "PKG110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 5 Pro",
+          "model": "PKR110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 5 竞速版",
+          "model": "PLF110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 5 至尊版",
+          "model": "PLC110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 6",
+          "model": "PLQ110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Ace 6T",
+          "model": "PLR110",
+          "Project No.": "",
+          "OTA Version": ""
+        }
+      ]
+    },
+    {
+      "name": "Turbo",
+      "list": [
+        {
+          "name": "Turbo 6",
+          "model": "PLU110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "Turbo 6V",
+          "model": "PLY110",
+          "Project No.": "",
+          "OTA Version": ""
+        }
+      ]
+    },
+    {
+      "name": "数字系列",
+      "list": [
+        {
+          "name": "11",
+          "model": "PHB110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "12",
+          "model": "PJD110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "13",
+          "model": "PJZ110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "13 T",
+          "model": "PKX110",
+          "Project No.": "",
+          "OTA Version": ""
+        },
+        {
+          "name": "15",
+          "model": "PLK110",
+          "Project No.": "",
           "OTA Version": ""
         }
       ]
