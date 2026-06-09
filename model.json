@@ -102,8 +102,8 @@
         {
           "name": "Find N5 卫星通讯版",
           "model": "PHK120",
-          "Project No.": "",
-          "OTA Version": ""
+          "Project No.": "24002",
+          "OTA Version": "PKH120_11.C.93_1930_202604291023"
         },
         {
           "name": "Find N6",
